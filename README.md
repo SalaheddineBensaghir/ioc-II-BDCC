@@ -16,4 +16,4 @@
 <h3>Version Annotation : </h3>
 <img src="captures/verAnn.png">
 <h3>Résultat : </h3>
-<img src="captures/Res4.png.png">
+<img src="captures/Res4.png">
